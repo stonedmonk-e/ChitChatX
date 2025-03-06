@@ -17,3 +17,6 @@ How It Works?
 ->Run the Server.java file – Starts a socket listener to accept client connection.
 ->Run the Client.java file  – The client establishes a connection to the server.
 ->Send & Receive Messages – Messages are transmitted instantly through the socket.
+
+![image](https://github.com/user-attachments/assets/a26ba640-d03a-4c70-bdb3-cd208867eb49)
+
